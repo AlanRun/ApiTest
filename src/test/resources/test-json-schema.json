@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "RestResponse": {
+    "countryIso2": "integer",
+    "stateAbbr": "string",
+    "postal": "string",
+    "continent": "string",
+    "state": "blank fields are acceptable",
+    "logitude": "",
+    "latitude": "",
+    "ds": "string",
+    "ip": "string",
+    "city": "string",
+    "country": "string"
+  }
+}
